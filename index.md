@@ -1,19 +1,18 @@
 ---
-layout: home
+layout: default
 title: "About Me"
-permalink: /
-author_profile: true
 ---
+
+# Adarsh Tripathi
+
+<img src="/assets/images/your-photo.jpg" width="180" alt="Adarsh Tripathi" align="left" style="margin-right:20px;"/>
 
 Welcome! I am **Adarsh Tripathi**, an aspiring developer and researcher.
 
-![My photo](/assets/images/your-photo.jpg){: .align-left width="200" }
-
-**Connect:**
-- [LinkedIn](https://www.linkedin.com/in/adarsht/){: .btn .btn--info }
-- [Email](mailto:ad.tripathi@students.hertie-school.org){: .btn .btn--primary }
+**Connect:**  
+[LinkedIn](https://www.linkedin.com/in/adarsht/) | [Email](mailto:ad.tripathi@students.hertie-school.org)
 
 ---
 
 I am passionate about coding, research, and sharing my learning journey.  
-Explore my [Projects](/projects/) and [Publications](/publications/)!
+Explore my [Projects](/projects.md) and [Publications](/publications.md)!
