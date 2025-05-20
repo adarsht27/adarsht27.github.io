@@ -1,0 +1,26 @@
+title: "Adarsh Tripathi"
+name: "Adarsh Tripathi"
+description: "Official academic website of Adarsh Tripathi"
+url: "https://adarsht27.github.io"
+theme: "minimal-mistakes-jekyll"
+
+# Social
+author:
+  name   : "Adarsh Tripathi"
+  avatar : "/assets/images/your-photo.jpg"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/adarsht/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:ad.tripathi@students.hertie-school.org"
+
+# Navigation
+nav:
+  - title: "About"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Publications"
+    url: "/publications/"
