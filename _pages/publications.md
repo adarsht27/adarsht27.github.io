@@ -1,9 +1,10 @@
 ---
 layout: default
 title: "Publications"
+permalink: /publications
 ---
 
-[Home](/) | [Projects](/projects.md) | [Publications](/publications.md)
+[Home](/) | [Projects](/projects) | [Publications](/publications)
 
 # Publications
 
