@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: "Publications"
-permalink: /publications/
 ---
+
+[Home](/) | [Projects](/projects.md) | [Publications](/publications.md)
 
 # Publications
 
