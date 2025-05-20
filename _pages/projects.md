@@ -1,9 +1,10 @@
 ---
 layout: default
 title: "Projects"
+permalink: /projects
 ---
 
-[Home](/) | [Projects](/projects.md) | [Publications](/publications.md)
+[Home](/) | [Projects](/projects) | [Publications](/publications)
 
 # Coding & Learning Projects
 
