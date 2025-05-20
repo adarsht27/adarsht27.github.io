@@ -15,4 +15,4 @@ Welcome! I am an aspiring developer and researcher, currently studying Master of
 ---
 
 I am passionate about coding, research, and sharing my learning journey.  
-Explore my [Projects](/projects.md) and [Publications](/publications.md)!
+Explore my [Projects](/projects) and [Publications](/publications)!
