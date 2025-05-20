@@ -2,7 +2,7 @@ title: "Adarsh Tripathi"
 name: "Adarsh Tripathi"
 description: "Official academic website of Adarsh Tripathi"
 url: "https://adarsht27.github.io"
-theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Social
 author:
