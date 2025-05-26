@@ -1,12 +1,10 @@
 ---
-layout: default
+layout: page
 title: "Projects"
-permalink: /projects
+permalink: /projects/
 ---
 
-[Home](/) | [Projects](/projects) | [Publications](/publications)
-
-# Coding & Learning Projects
+# Projects
 
 - **Project 1:** Short description. [GitHub Repo](https://github.com/adarsht27/PROJECT1)
 - **Project 2:** Short description. [GitHub Repo](https://github.com/adarsht27/PROJECT2)
