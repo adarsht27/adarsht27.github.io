@@ -1,22 +1,19 @@
 title: "Adarsh Tripathi"
 email: "ad.tripathi@students.hertie-school.org"
-description: >-
-  Official academic website of Adarsh Tripathi.
-baseurl: "" # leave empty for user/organization site
+description: "Official academic website of Adarsh Tripathi."
+baseurl: "" # For user/organization site
 url: "https://adarsht27.github.io"
 author: "Adarsh Tripathi"
 avatar: "/assets/img/avatar.jpg"
 
-# Hydejack-specific settings
+theme: hydejack
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 hydejack:
   social:
     github: "adarsht27"
     linkedin: "adarsht"
     email: "ad.tripathi@students.hertie-school.org"
-
-# Build settings (leave as is for now)
-markdown: kramdown
-theme: hydejack
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
