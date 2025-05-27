@@ -16,7 +16,7 @@ hydejack:
 
 # Build settings (leave as is for now)
 markdown: kramdown
-theme: null
+theme: hydejack
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
