@@ -6,7 +6,7 @@ url: "https://adarsht27.github.io"
 author: "Adarsh Tripathi"
 avatar: "/assets/img/avatar.jpg"
 
-theme: hydejack
+remote_theme: qwtel/hydejack
 
 plugins:
   - jekyll-feed
